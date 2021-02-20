@@ -4,6 +4,7 @@ Git has a mutable index called stage.
 Git tracks changes.
 新增一行
 <<<<<<< HEAD
+<<<<<<< HEAD
 Creating a new branch is quick AND simple.
 
 master 新增
@@ -15,3 +16,8 @@ Creating a new branch is quick AND simple..
 
 
 Creating a new branch is quick and simple.
+=======
+Creating a new branch is quick.
+我是修改的
+>>>>>>> dev
+dd
