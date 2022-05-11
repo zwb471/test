@@ -5,7 +5,7 @@ export function checkArray(key) {
     //当前用户权限
     // let arr2 = ['1','3','4']
 
-    //判断当前用户权限是否在权限数组中
+    //判断当前用户权限是否在权限数组中ddd
     let index = arr1.findIndex(item => {
         return item == key
     });
