@@ -12,6 +12,7 @@ export function checkArray(key) {
     // let index = arr1.findIndex(item => {
     //     return item == key
     // }) //如果在返回索引值，如果不在返回-1
+    //557777
     if (index == -1) {
         return false
     }
