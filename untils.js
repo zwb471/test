@@ -13,6 +13,8 @@ export function checkArray(key) {
     //     return item == key
     // }) //如果在返回索引值，如果不在返回-1
     //557777
+    //5587778888888888888
+    console.log('git4')
     if (index == -1) {
         return false
     }
