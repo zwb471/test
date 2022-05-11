@@ -18,7 +18,8 @@ export function checkArray(key) {
     console.log('/master 我是冲突一行')
     console.log('git4') //合并成功 hot-fix
     console.log('hot -fix -- dev') //合并成功 hot-fix
-    //5587778888888888888
+    5587778888888888888
+    ////dskfospfak 测试远程
     if (index == -1) {
         return false
     }
