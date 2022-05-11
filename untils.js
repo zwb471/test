@@ -15,6 +15,7 @@ export function checkArray(key) {
     //557777
     //5587778888888888888
     console.log('git4')
+    console.log('/master 我是冲突一行')
     if (index == -1) {
         return false
     }
