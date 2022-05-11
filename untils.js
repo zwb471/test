@@ -14,7 +14,8 @@ export function checkArray(key) {
     // }) //如果在返回索引值，如果不在返回-1
     //557777
     //5587778888888888888
-    console.log('git4')
+    console.log('git4') //合并成功 hot-fix
+    console.log('hot -fix -- dev') //合并成功 hot-fix
     if (index == -1) {
         return false
     }
