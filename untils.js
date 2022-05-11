@@ -25,4 +25,4 @@ export function checkArray(key) {
     return true
 }
 console.log('push - commit-git5') //ffff
-console.log(666666)
+console.log(666666  )
